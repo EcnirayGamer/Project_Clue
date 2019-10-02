@@ -1,2 +1,2 @@
 /// @description Insert description here
-scr_intilizeDialog
+scr_intilizeDialog()
