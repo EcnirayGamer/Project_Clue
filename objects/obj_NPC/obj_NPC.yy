@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_NPC",
     "eventList": [
-        
+        {
+            "id": "79465d75-0b42-497c-a5c7-3656db68b8d0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "11f81471-f4d1-4cc8-b857-20e3bf64c3d0"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "3112869e-6a58-4856-a8f7-3837dcc04f09",
     "visible": true
 }
