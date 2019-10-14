@@ -6,3 +6,4 @@ else
 {
 	image_speed = 0;
 }
+
