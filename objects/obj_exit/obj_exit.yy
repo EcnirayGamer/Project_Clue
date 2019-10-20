@@ -42,7 +42,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "Hotel_Lobby",
+            "value": "rm_hotel_lobby",
             "varName": "leaving",
             "varType": 5
         }

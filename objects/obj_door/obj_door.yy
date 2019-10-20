@@ -42,7 +42,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "Hotel_Room",
+            "value": "rm_hotel_room",
             "varName": "destination",
             "varType": 5
         }

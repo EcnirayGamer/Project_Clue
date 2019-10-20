@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "28a2c8d1-19a1-4537-ad64-1f09742086ff",
+            "Value": {
+                "id": "3efbfccd-7947-4430-8dc2-a032e2ee1c56",
+                "resourcePath": "objects\\obj_johnny\\obj_johnny.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2a728261-ab41-44bf-a3e0-75d80d392577",
             "Value": {
                 "id": "277fe521-ecdb-4028-84b0-fbfd4c608c97",
@@ -92,6 +100,14 @@
                 "id": "88bc824a-bfd7-46cd-9d97-4e8316b5bfe6",
                 "resourcePath": "sprites\/spr_portraitBox\/spr_portraitBox.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2c23e659-fb3f-4cde-bb31-8ea532c5043c",
+            "Value": {
+                "id": "9bab1fb8-13fc-44f8-bc5c-8dde1ca727ca",
+                "resourcePath": "sounds\\snd_office\\snd_office.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -306,7 +322,7 @@
             "Key": "90650bb4-fb0a-4df8-8028-5d9352313d09",
             "Value": {
                 "id": "8cfa66c5-7ec0-432e-91d3-924405b48b38",
-                "resourcePath": "rooms\/Office\/Office.yy",
+                "resourcePath": "rooms\\rm_office\\rm_office.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -362,7 +378,7 @@
             "Key": "a7a7ad31-eeba-431b-98f3-9979135fa012",
             "Value": {
                 "id": "1d7921b5-01b5-454c-92ad-1f4d887020ed",
-                "resourcePath": "rooms\\Main_Street\\Main_Street.yy",
+                "resourcePath": "rooms\\rm_street\\rm_street.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -394,7 +410,7 @@
             "Key": "ab9e51d2-eedf-4b97-b85c-7fb683984b2c",
             "Value": {
                 "id": "19e8254f-47b8-4b36-bfac-350cb26499ac",
-                "resourcePath": "rooms\\Hotel_Room\\Hotel_Room.yy",
+                "resourcePath": "rooms\\rm_hotel_room\\rm_hotel_room.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -450,7 +466,7 @@
             "Key": "c848ef2f-87d4-4407-ab12-46f07a9fa173",
             "Value": {
                 "id": "7c4cb100-8ceb-4444-bbed-10354dcd3e19",
-                "resourcePath": "rooms\\Hotel_Lobby\\Hotel_Lobby.yy",
+                "resourcePath": "rooms\\rm_hotel_lobby\\rm_hotel_lobby.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -476,6 +492,14 @@
                 "id": "90223a20-fa45-451b-a89b-6c640dc5ddb4",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "e93e997d-cd82-42b5-b66c-95b810bddb76",
+            "Value": {
+                "id": "db6a9ba5-5477-42d9-8098-b458176572fd",
+                "resourcePath": "sounds\\snd_hotel_lobby\\snd_hotel_lobby.yy",
+                "resourceType": "GMSound"
             }
         },
         {

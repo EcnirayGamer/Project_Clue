@@ -1,6 +1,6 @@
 
 {
-    "name": "Hotel_Room",
+    "name": "rm_hotel_room",
     "id": "ab9e51d2-eedf-4b97-b85c-7fb683984b2c",
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
@@ -53,7 +53,7 @@
             "inheritVisibility": false,
             "instances": [
 {"name": "inst_51966E","id": "073a9f74-abe1-4c2a-bfe4-5f1c16f640ca","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_51966E","objId": "c92ffe8a-a176-43c9-a2d9-dd2f8166ca30","properties": null,"rotation": 0,"scaleX": 0.8260999,"scaleY": 0.7635999,"mvc": "1.1","x": 1216,"y": 224},
-{"name": "inst_31898519","id": "89db570c-9ffc-487c-96a3-52c9a3fcad4d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_31898519","objId": "c45be4a2-40e7-4d3e-9ed8-98e16d71c6e4","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 17,"mvc": "1.1","x": 1920,"y": 0}
+{"name": "inst_31898519","id": "89db570c-9ffc-487c-96a3-52c9a3fcad4d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_31898519","objId": "c45be4a2-40e7-4d3e-9ed8-98e16d71c6e4","properties": [{"id": "1e12ff02-8d5d-4833-aeed-2f575f3c18cf","modelName": "GMOverriddenProperty","objectId": "c45be4a2-40e7-4d3e-9ed8-98e16d71c6e4","propertyId": "4021bf78-1440-46e7-b9eb-b67fcd6f8d33","mvc": "1.0","value": "rm_hotel_lobby"}],"rotation": 0,"scaleX": 1,"scaleY": 17,"mvc": "1.1","x": 1920,"y": 0}
             ],
             "layers": [
 
