@@ -26,6 +26,8 @@ if(keyboard_check_released(ord("F")) && !instance_exists(obj_dialogController)){
 		//Add journal note: 2,3,5,7,11
 	start_dialog(self, 0)
 	global.numJournalNotes++;
+	global.pages[array_length_1d(global.pages)] = 2
+	
 	}
 
 	if(global.countJohnny == 2){
@@ -41,6 +43,7 @@ if(keyboard_check_released(ord("F")) && !instance_exists(obj_dialogController)){
 		//Add journal note: Johnny may be hiding something
 	start_dialog(self, 0)
 	global.numJournalNotes++;
+	global.pages[array_length_1d(global.pages)] = 3
 	}
 
 	if(global.countJohnny == 3){

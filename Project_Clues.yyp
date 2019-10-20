@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "780b4217-a42d-499f-a0e8-5ee8003eca9c",
+            "Value": {
+                "id": "08b60cb8-ab6c-4ec9-aef5-9199c2c32967",
+                "resourcePath": "sprites\\spr_bird\\spr_bird.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "781b1493-b13a-46e0-928c-d257e8ff92ed",
             "Value": {
                 "id": "3dc11608-6713-4c9d-acf5-7f31bfa91514",
@@ -455,6 +463,14 @@
             }
         },
         {
+            "Key": "bf74c77a-16dc-4edd-93e2-e2a8c09846be",
+            "Value": {
+                "id": "3b236b95-6b60-4498-af44-90dde833d25c",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "c45be4a2-40e7-4d3e-9ed8-98e16d71c6e4",
             "Value": {
                 "id": "af1a4450-492f-4bd9-80a8-184c781ca8b3",
@@ -500,6 +516,14 @@
                 "id": "db6a9ba5-5477-42d9-8098-b458176572fd",
                 "resourcePath": "sounds\\snd_hotel_lobby\\snd_hotel_lobby.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "eafb22b5-82ee-4005-bda3-2acda511d360",
+            "Value": {
+                "id": "9a91d7fd-513f-4345-927b-e1eabedcbdc8",
+                "resourcePath": "objects\\obj_bird\\obj_bird.yy",
+                "resourceType": "GMObject"
             }
         },
         {
