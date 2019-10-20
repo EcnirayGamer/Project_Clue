@@ -16,6 +16,7 @@ if(keyboard_check_released(ord("F")) && !instance_exists(obj_dialogController)){
 		add_dialog("Er… Right, I'll be on my way.", false, c_green, true)
 	start_dialog(self, 0)
 	global.numJournalNotes++;
+	global.pages[array_length_1d(global.pages)] = 1
 	}
 
 	if(global.countEvelyn == 1){
