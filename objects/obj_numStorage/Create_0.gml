@@ -3,3 +3,4 @@
 
 global.countEvelyn = 0;
 global.numJournalNotes = 0;
+global.countJohnny = 0;

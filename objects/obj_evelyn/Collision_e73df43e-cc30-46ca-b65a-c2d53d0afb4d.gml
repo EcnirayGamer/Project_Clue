@@ -15,6 +15,7 @@ if(keyboard_check_released(ord("F")) && !instance_exists(obj_dialogController)){
 		add_dialog("Well are you going to go check the hotel or keep staring at my desk?", true, c_white, false)
 		add_dialog("Er… Right, I'll be on my way.", false, c_green, true)
 	start_dialog(self, 0)
+	global.numJournalNotes++;
 	}
 
 	if(global.countEvelyn == 1){
@@ -32,9 +33,8 @@ if(keyboard_check_released(ord("F")) && !instance_exists(obj_dialogController)){
 	dialog_line = 0
 	add_dialog("Shouldn't you be getting to work?", false, c_white, false)
 	start_dialog(self, 0)
-	global.numJournalNotes++;
+	
 	}
-	global.countEvelyn++;
 	
 }
 
