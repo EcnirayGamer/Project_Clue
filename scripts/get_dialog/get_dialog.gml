@@ -6,7 +6,7 @@ if(fetch){
 
 	dialog_text = dialog_data[0]            
 	dialog_continue = dialog_data[1]     
-	dialog_avatar = dialog_data[2]         
+	dialog_color = dialog_data[2]         
 	dialog_leftFacing = dialog_data[3]    
 	
 	fetch = false
