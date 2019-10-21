@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "043694f4-4cb7-457c-9ae9-7ab261750b15",
-            "Value": {
-                "id": "49d31ab9-3b49-4a66-9b1a-c9de479fd866",
-                "resourcePath": "sprites\\spr_street7\\spr_street7.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0d40beb0-7fce-4251-98e7-0b9082702e97",
             "Value": {
                 "id": "53017c75-185b-44f3-8081-b9b6dfe6d4a6",
@@ -60,14 +52,6 @@
                 "id": "5aeb0875-1e69-4ed1-a940-9def84ecb965",
                 "resourcePath": "objects\\obj_evelyn\\obj_evelyn.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "1372f851-bf79-4820-9ff5-effca8819596",
-            "Value": {
-                "id": "fb54c0a9-df59-4dd5-a304-5b1a2363c634",
-                "resourcePath": "rooms\\rm_street6\\rm_street6.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -95,6 +79,14 @@
             }
         },
         {
+            "Key": "1a9b7533-d78a-4f2c-a5a4-e2d7c20c356b",
+            "Value": {
+                "id": "564ca767-61ec-4e82-b8b2-cdbf61341589",
+                "resourcePath": "rooms\\rm_hotel_hall\\rm_hotel_hall.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1bc89605-4653-4d4b-b070-30006c25dfa8",
             "Value": {
                 "id": "0f3ae82b-cca4-4cdc-971e-fdb0ac321a63",
@@ -103,19 +95,11 @@
             }
         },
         {
-            "Key": "21a8c449-4a27-4d58-8bc4-5f9d082a3306",
+            "Key": "21efe32b-64e1-47d1-8d68-584fee3a6251",
             "Value": {
-                "id": "f6e5eba2-aeae-47cf-ac05-6289f3d647dd",
-                "resourcePath": "sprites\\spr_street3\\spr_street3.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "275dc5dd-482a-4c04-a836-68ebffb4ffcd",
-            "Value": {
-                "id": "b9865fbe-d49a-4dc3-b1af-689e438f0bfc",
-                "resourcePath": "sprites\\spr_street2\\spr_street2.yy",
-                "resourceType": "GMSprite"
+                "id": "920de7a4-4c92-42c2-9edf-ffb9267dfb90",
+                "resourcePath": "rooms\\rm_hotel_room_destroyed\\rm_hotel_room_destroyed.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -151,14 +135,6 @@
             }
         },
         {
-            "Key": "2d173009-cfac-46d0-8d28-635b571666e1",
-            "Value": {
-                "id": "adf9ba84-6469-41d2-b6d6-40ff0510dd9b",
-                "resourcePath": "sprites\\spr_street6\\spr_street6.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3112869e-6a58-4856-a8f7-3837dcc04f09",
             "Value": {
                 "id": "ffe9e169-3a30-4119-b9d8-ce9ad59f8574",
@@ -171,14 +147,6 @@
             "Value": {
                 "id": "60cd8c46-6e9d-4eec-8343-6562c0b2b522",
                 "resourcePath": "sprites\\spr_hotel_lobby\\spr_hotel_lobby.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "33091f08-1e51-4807-a41c-386ebc50b81c",
-            "Value": {
-                "id": "812f43a9-f05d-4a2e-911c-1df0ba96d710",
-                "resourcePath": "sprites\\spr_street4\\spr_street4.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -199,11 +167,11 @@
             }
         },
         {
-            "Key": "3ad2d25f-20e0-4441-815f-496ecbd59389",
+            "Key": "36502a67-b6c3-4c69-ae76-673d9b17f319",
             "Value": {
-                "id": "8603f071-2084-4588-b4c3-7dd9b3f52725",
-                "resourcePath": "sprites\\spr_street5\\spr_street5.yy",
-                "resourceType": "GMSprite"
+                "id": "65b71498-f984-4435-b390-9fcdfb722420",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -215,27 +183,11 @@
             }
         },
         {
-            "Key": "478308fa-9acb-4dfe-8ad2-8d633d7090b1",
-            "Value": {
-                "id": "0da64a4e-dfbd-48a7-810b-27e4ceaaa712",
-                "resourcePath": "rooms\\rm_street3\\rm_street3.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "4a3a31b0-2127-408e-b997-ab91e7e252ff",
             "Value": {
                 "id": "14577f04-e750-45a5-962f-41f06f0192aa",
                 "resourcePath": "views\/4a3a31b0-2127-408e-b997-ab91e7e252ff.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "52aeb71f-5557-442a-84c8-460138f72ddc",
-            "Value": {
-                "id": "ec229752-856a-4556-8994-46fc72499c10",
-                "resourcePath": "rooms\\rm_street8\\rm_street8.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -367,14 +319,6 @@
             }
         },
         {
-            "Key": "81b81912-8554-4cf8-910b-5dea38af5f2b",
-            "Value": {
-                "id": "fb547263-af1f-492a-98db-6d2c19257117",
-                "resourcePath": "rooms\\rm_street4\\rm_street4.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "886956aa-20fa-409f-b0ab-011e7747a606",
             "Value": {
                 "id": "f57342ea-9b35-4c9d-8eea-67d9048a034b",
@@ -423,14 +367,6 @@
             }
         },
         {
-            "Key": "9070a556-4100-43b4-a906-db5daaa02968",
-            "Value": {
-                "id": "93be16ed-469d-4328-b9a6-170ead4eefe8",
-                "resourcePath": "rooms\\rm_street5\\rm_street5.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "9926a6d3-a2bf-420f-8943-11863f966d5c",
             "Value": {
                 "id": "864b12b6-30f5-4260-bb87-18b87c5d82e1",
@@ -447,11 +383,11 @@
             }
         },
         {
-            "Key": "9a88abdb-68fe-4f8f-9cfc-fc3f59647743",
+            "Key": "9b214529-9ab2-4b60-a8db-bcbbf1b1961f",
             "Value": {
-                "id": "f673dd4a-b7c7-4cce-ae83-9321e9c7b686",
-                "resourcePath": "rooms\\rm_street9\\rm_street9.yy",
-                "resourceType": "GMRoom"
+                "id": "88a672da-5631-46c2-91cb-de53118e4b47",
+                "resourcePath": "objects\\obj_alex\\obj_alex.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -519,27 +455,11 @@
             }
         },
         {
-            "Key": "ab9353b2-eced-4ac6-a702-7fec254f93c8",
-            "Value": {
-                "id": "02286875-fd36-4716-b3a3-934785a08fdd",
-                "resourcePath": "rooms\\rm_street1\\rm_street1.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "ab9e51d2-eedf-4b97-b85c-7fb683984b2c",
             "Value": {
                 "id": "19e8254f-47b8-4b36-bfac-350cb26499ac",
                 "resourcePath": "rooms\\rm_hotel_room\\rm_hotel_room.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "ace226b4-6818-4b9a-acbb-9a5b58e5972b",
-            "Value": {
-                "id": "788ab637-6f9f-466e-bc75-7a510a3dfb7c",
-                "resourcePath": "sprites\\spr_street8\\spr_street8.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -583,6 +503,14 @@
             }
         },
         {
+            "Key": "bcfb2ad9-ba7d-4ec9-879e-f3d280297ebc",
+            "Value": {
+                "id": "6ea061dc-d568-4198-a7a4-35761d712d96",
+                "resourcePath": "sprites\\spr_hotel_room_destroyed\\spr_hotel_room_destroyed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bf74c77a-16dc-4edd-93e2-e2a8c09846be",
             "Value": {
                 "id": "3b236b95-6b60-4498-af44-90dde833d25c",
@@ -599,27 +527,11 @@
             }
         },
         {
-            "Key": "c64b7462-67b8-4bf4-ba92-0773a19e5942",
-            "Value": {
-                "id": "1c2050bc-cec8-4306-9cf2-3a2f5d2a46f3",
-                "resourcePath": "rooms\\rm_street2\\rm_street2.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "c848ef2f-87d4-4407-ab12-46f07a9fa173",
             "Value": {
                 "id": "7c4cb100-8ceb-4444-bbed-10354dcd3e19",
                 "resourcePath": "rooms\\rm_hotel_lobby\\rm_hotel_lobby.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "c8dff913-2931-49fa-b56a-8a1eb424cfc1",
-            "Value": {
-                "id": "23fe20e0-c2a3-4cbe-aef4-c017d90057c5",
-                "resourcePath": "sprites\\spr_street9\\spr_street9.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -647,19 +559,19 @@
             }
         },
         {
-            "Key": "cd8e7e06-c59f-4068-b478-5cce0f4bc7e9",
+            "Key": "e41dfbe0-2c1e-44f1-8593-38563fb7bda5",
             "Value": {
-                "id": "92e3cf3d-7f25-4850-b6f2-5df6616e19d3",
-                "resourcePath": "sprites\\spr_street1\\spr_street1.yy",
+                "id": "1ec3f67b-a6f0-4701-bdec-eec48a0f8ae3",
+                "resourcePath": "sprites\\spr_hotel_hall\\spr_hotel_hall.yy",
                 "resourceType": "GMSprite"
             }
         },
         {
-            "Key": "d941d04b-3159-473e-a976-4f8ef524bff6",
+            "Key": "e5a879b9-a591-459b-a1cb-cfe48b29e689",
             "Value": {
-                "id": "8c4d2115-dfa9-42fe-9262-bfee5676e0cb",
-                "resourcePath": "rooms\\rm_street7\\rm_street7.yy",
-                "resourceType": "GMRoom"
+                "id": "924e5d60-6deb-488c-a78a-930e1ddc16ce",
+                "resourcePath": "sprites\\spr_alex\\spr_alex.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
