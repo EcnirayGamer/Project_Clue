@@ -8,7 +8,7 @@
     "VTile": false,
     "bbox_bottom": 1079,
     "bbox_left": 0,
-    "bbox_right": 19327,
+    "bbox_right": 16356,
     "bbox_top": 0,
     "bboxmode": 0,
     "colkind": 1,
@@ -16,24 +16,24 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "13d0817a-dd90-4f05-913b-740b9b14abc9",
+            "id": "fc08243f-9d71-4a4d-920e-90bdbb9e089d",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "179be57d-9488-46c3-8a98-8115269dd1fc",
             "compositeImage": {
-                "id": "b6e010ff-4e4b-4288-8835-8dd8741f6733",
+                "id": "24c00b1f-4819-4eff-8d10-0da806cd6b7d",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "13d0817a-dd90-4f05-913b-740b9b14abc9",
+                "FrameId": "fc08243f-9d71-4a4d-920e-90bdbb9e089d",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "0ee81461-471e-443b-9aa8-f9b993e68a25",
+                    "id": "d2cc44fe-9e3e-495d-b561-d7f70e976e7b",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "13d0817a-dd90-4f05-913b-740b9b14abc9",
-                    "LayerId": "f48824d3-e4d4-4e90-aad7-584443961b9d"
+                    "FrameId": "fc08243f-9d71-4a4d-920e-90bdbb9e089d",
+                    "LayerId": "bf653bac-63b0-458a-b18d-ef2bbc517e46"
                 }
             ]
         }
@@ -43,7 +43,7 @@
     "height": 1080,
     "layers": [
         {
-            "id": "f48824d3-e4d4-4e90-aad7-584443961b9d",
+            "id": "bf653bac-63b0-458a-b18d-ef2bbc517e46",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "179be57d-9488-46c3-8a98-8115269dd1fc",
@@ -64,7 +64,7 @@
     "swfPrecision": 2.525,
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
-    "width": 19328,
+    "width": 16381,
     "xorig": 0,
     "yorig": 0
 }
