@@ -45,6 +45,34 @@
             "value": "rm_hotel_room",
             "varName": "destination",
             "varType": 5
+        },
+        {
+            "id": "716c2ac3-4e73-44d6-b9eb-76a56dcf6b17",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "start_x",
+            "varType": 1
+        },
+        {
+            "id": "49bc76f1-6199-4d33-917d-c12169e9bcdb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "300",
+            "varName": "start_y",
+            "varType": 1
         }
     ],
     "solid": false,

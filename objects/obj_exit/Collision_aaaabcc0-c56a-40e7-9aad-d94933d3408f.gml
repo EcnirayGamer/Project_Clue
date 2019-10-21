@@ -2,4 +2,5 @@
 // You can write your code in this editor
 audio_stop_all()
 room_goto(leaving)
-instance_destroy(other)
+obj_McArthur.x = x_start
+obj_McArthur.y = y_start

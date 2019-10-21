@@ -45,6 +45,34 @@
             "value": "rm_hotel_lobby",
             "varName": "leaving",
             "varType": 5
+        },
+        {
+            "id": "f04a4695-9173-47e1-ad89-858ed15f3ec9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "100",
+            "varName": "x_start",
+            "varType": 1
+        },
+        {
+            "id": "f2e0760a-fa28-4a8a-b2ba-0d0a2e242b90",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "300",
+            "varName": "y_start",
+            "varType": 1
         }
     ],
     "solid": false,
