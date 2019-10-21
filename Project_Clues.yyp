@@ -55,14 +55,6 @@
             }
         },
         {
-            "Key": "16d03c53-46d0-43a7-8001-ef9be4221b54",
-            "Value": {
-                "id": "9ead6780-add5-4aae-bafc-12c4886de8e9",
-                "resourcePath": "sprites\/sprite14\/sprite14.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "179be57d-9488-46c3-8a98-8115269dd1fc",
             "Value": {
                 "id": "d19f9901-7f73-448d-876f-50c3301e6147",
@@ -87,14 +79,6 @@
             }
         },
         {
-            "Key": "1bc89605-4653-4d4b-b070-30006c25dfa8",
-            "Value": {
-                "id": "0f3ae82b-cca4-4cdc-971e-fdb0ac321a63",
-                "resourcePath": "objects\/obj_doors\/obj_doors.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "21efe32b-64e1-47d1-8d68-584fee3a6251",
             "Value": {
                 "id": "920de7a4-4c92-42c2-9edf-ffb9267dfb90",
@@ -116,14 +100,6 @@
                 "id": "277fe521-ecdb-4028-84b0-fbfd4c608c97",
                 "resourcePath": "views\/2a728261-ab41-44bf-a3e0-75d80d392577.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "2b1dea53-4b70-4b35-8057-f981d47b4dbe",
-            "Value": {
-                "id": "88bc824a-bfd7-46cd-9d97-4e8316b5bfe6",
-                "resourcePath": "sprites\/spr_portraitBox\/spr_portraitBox.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -303,14 +279,6 @@
             }
         },
         {
-            "Key": "80f355d3-12b7-4562-8bba-6c7958b157ac",
-            "Value": {
-                "id": "12de3107-f444-476f-95b6-d54e59542952",
-                "resourcePath": "objects\/obj_props\/obj_props.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "886956aa-20fa-409f-b0ab-011e7747a606",
             "Value": {
                 "id": "f57342ea-9b35-4c9d-8eea-67d9048a034b",
@@ -359,14 +327,6 @@
             }
         },
         {
-            "Key": "9926a6d3-a2bf-420f-8943-11863f966d5c",
-            "Value": {
-                "id": "864b12b6-30f5-4260-bb87-18b87c5d82e1",
-                "resourcePath": "sprites\/sprite5\/sprite5.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "9a1d162b-56df-4944-8e91-f615ce7b1223",
             "Value": {
                 "id": "60b11f54-4d56-4404-9e8f-21edfe2f0f5a",
@@ -404,6 +364,14 @@
                 "id": "6b1d4a24-4135-4637-ac52-ef17b518669c",
                 "resourcePath": "objects\/obj_items\/obj_items.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a2b03a43-5edb-4c3f-b98a-0e215a4ef821",
+            "Value": {
+                "id": "4377b11d-b07f-49f0-b640-50a3b2ad5a94",
+                "resourcePath": "sprites\/spr_door_icon\/spr_door_icon.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -452,6 +420,14 @@
                 "id": "19e8254f-47b8-4b36-bfac-350cb26499ac",
                 "resourcePath": "rooms\/rm_hotel_room\/rm_hotel_room.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "abf54de6-7a49-4617-938c-4449575e8805",
+            "Value": {
+                "id": "1b02e353-bef6-4701-a2b6-f85e8989256e",
+                "resourcePath": "objects\/obj_door_icon\/obj_door_icon.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -556,6 +532,14 @@
                 "id": "90223a20-fa45-451b-a89b-6c640dc5ddb4",
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d2215b03-06ec-4061-b1b0-af7666856a68",
+            "Value": {
+                "id": "97d1a4a4-5630-4c3e-b432-5d0b43e140bc",
+                "resourcePath": "sprites\/spr_employee\/spr_employee.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

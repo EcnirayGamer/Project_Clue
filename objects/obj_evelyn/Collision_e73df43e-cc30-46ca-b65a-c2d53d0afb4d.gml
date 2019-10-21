@@ -36,6 +36,7 @@ if(keyboard_check_released(ord("F")) && !instance_exists(obj_dialogController)){
 	start_dialog(self, 0)
 	
 	}
+	global.countEvelyn++
 	
 }
 

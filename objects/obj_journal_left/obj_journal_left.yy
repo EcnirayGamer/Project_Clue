@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_journal_left",
     "eventList": [
-        
+        {
+            "id": "e59befa9-4d05-469d-b166-c172ffd5d516",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "cb5d9c03-a506-436f-bee6-899d957746f1"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

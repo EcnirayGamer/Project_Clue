@@ -5,3 +5,5 @@ if keyboard_check_pressed(ord("O")){
 	room_goto(destination)
 	instance_destroy(other)
 } 
+
+instance_create_depth(x, y, 100, obj_door_icon)
