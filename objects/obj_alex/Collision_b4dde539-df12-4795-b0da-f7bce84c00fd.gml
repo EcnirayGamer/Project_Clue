@@ -1,8 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-if(global.countAlex <= 0 && !instance_exists(obj_dialogController)){
-	instance_create_depth(64, 160, 100, obj_speechBubble)
-}
 
 if(keyboard_check_released(ord("F")) && !instance_exists(obj_dialogController)){
 	dialog = []
